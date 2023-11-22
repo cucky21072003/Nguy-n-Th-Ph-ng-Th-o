@@ -54,7 +54,7 @@ const Cart = () => {
      </View>
      <TouchableOpacity style={styles.check}>
       <Text style={{fontSize:18,color:'#fff',fontWeight:'700'}}>Proceed to checkout</Text>
-      </TouchableOpacity>
+     </TouchableOpacity>
   </View>
  )
  }
